@@ -1,5 +1,5 @@
 /*Count words 
- * created by SanjayKumar On 6/11/16
+ * created by SanjayKumar On 7/11/16
  * */
 import java.io.*;
 public class Count_words {
